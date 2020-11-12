@@ -53,7 +53,9 @@ The most popular genres from year to year are:
 18- Documentary
 
 19- TV Movie
+
 20- Foreign
 
 The time period between 2000 and 2002 has the most popular genres.
+
 The top five genres which have high release are Drama, Comedy, Thriller, Action, and Adventure.
